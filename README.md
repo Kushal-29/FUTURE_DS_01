@@ -1,4 +1,4 @@
-# FUTURE_DS_01   
+# FUTURE_DS_01
 
 This repository contains my work for the Data Science & Analytics Internship
 at Future Interns.
@@ -8,10 +8,10 @@ at Future Interns.
 - Task 02: Social Media Analytics Dashboard
 - Task 03: College Event Feedback Analysis (Python)
 
-## Structure
+## Structure 
 Each task is stored in a separate folder with datasets, dashboard files, and reports.
 
-## Status
+## Status 
 Work in progress 🚀
 
-#futureinterns
+#futureinterns 
